@@ -9,3 +9,5 @@ this repo can help in understanding GGNNs.
 ### References
 - [JamesChuanggg/ggnn.pytorch](https://github.com/JamesChuanggg/ggnn.pytorch)
 - [yujiali/ggnn](https://github.com/yujiali/ggnn)
+
+Largely a simplified version of https://github.com/JamesChuanggg/ggnn.pytorch. 
